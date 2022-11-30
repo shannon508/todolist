@@ -1,4 +1,5 @@
 # todolist
-# Live Demo(https://todoapp-shannon.netlify.app/)
+# [Live Demo](https://todoapp-shannon.netlify.app/)
 # Screenshot    
-![image](https://user-images.githubusercontent.com/71108590/204892161-490c1645-3afb-4576-8541-885b13fca316.png)
+![image](![todolistscreenshot1](https://user-images.githubusercontent.com/71108590/204892644-c03d46f3-612e-40dc-aa60-5a81f8e60305.png)
+)
